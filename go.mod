@@ -7,8 +7,8 @@ module github.com/brig-sh/brig
 go 1.26.0
 
 require (
-	github.com/godbus/dbus/v5 v5.2.2
-	golang.org/x/sys v0.48.0
+	github.com/godbus/dbus/v5 v5.2.4
+	golang.org/x/sys v0.49.0
 	sigs.k8s.io/yaml v1.6.0
 )
 
